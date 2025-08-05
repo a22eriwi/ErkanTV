@@ -1,0 +1,207 @@
+/* stylesMobile.css */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@media (max-width: 600px) {
+
+  .adminTableDiv th {
+    padding: 10px 5px;
+  }
+
+  .adminTableDiv td {
+    padding: 5px;
+  }
+
+  .pending .adminTableDiv {
+    width: 415px;
+  }
+
+  .approved .adminTableDiv {
+    width: 415px;
+  }
+
+  .adminTableDiv {
+    word-break: break-word;
+  }
+
+  .approveKnapp {
+    min-height: 1rem;
+    font-size: 10px;
+  }
+
+  .adminGrid {
+    font-size: 10px;
+  }
+
+  .deleteKnapp {
+    min-height: 1rem;
+    font-size: 10px;
+  }
+
+  .wishTitle {
+    font-size: 1.4rem;
+  }
+
+  .wishList {
+    margin: auto;
+    max-width: 600px;
+    margin-top: 20px;
+    padding: 0rem 2rem;
+  }
+
+  .header button {
+    font-size: 1.4rem;
+  }
+
+  .wishTableDiv {
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+  }
+
+  .wishDeleteKnapp {
+    font-size: 10px;
+    word-break: normal;
+  }
+
+  .wishPost {
+    font-size: 10px;
+  }
+
+  .wishPost td {
+    padding: 10px;
+    word-break: break-word;
+  }
+
+  .wishTable th {
+    padding: 15px 10px;
+    font-size: 11px;
+  }
+
+  .genre-buttons {
+    width: 368px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .genre-buttons button {
+    padding: 15px 20px;
+    white-space: nowrap;
+  }
+
+  .backButton {
+    width: 368px;
+  }
+
+  .movie-row .msTitel {
+    font-size: 1.6rem;
+  }
+
+  .msSearch {
+    width: 368px;
+  }
+
+  .valkommen {
+    font-size: 1.6rem;
+  }
+
+  .valkommen2 {
+    font-size: 1rem;
+  }
+
+  .menuButton {
+    display: block;
+  }
+
+    .next-episode-button {
+    bottom: 55px;
+    font-size: 10px;
+}
+
+
+  .movieTitle {
+    font-size: 10px;
+  }
+
+.close-button{
+  font-size: 1.2rem;
+}
+
+  .homeComponent h3 {
+    font-size: 1.3rem;
+  }
+
+  .tablist {
+    font-size: 16px;
+    gap: 25px;
+  }
+
+  .details {
+    width: 365px;
+  }
+
+  /* Movie row styles */
+  .movie-row {
+    padding: 1rem 1rem;
+  }
+
+  .movie-row .cards {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .movie-card {
+    width: 170px;
+    height: 270px;
+  }
+
+  .movie-card img {
+    width: 170px;
+    height: 270px;
+  }
+
+    .img-wrapper img {
+    width: 170px;
+    height: 270px;
+  }
+
+  .img-wrapper {
+     width: 170px;
+    height: 270px;
+  }
+
+  .movieWrapper {
+    border-radius: 5px;
+    position: relative;
+    width: 280px;
+    height: 380px;
+    margin-bottom: 15px;
+}
+
+  .episode-card {
+    width: 170px;
+    height: 270px;
+  }
+
+  .movieComponent {
+    width: 280px;
+  }
+
+  .poster {
+    width: 280px;
+    height: 380px;
+  }
+
+  .play-button {
+    width: 280px;
+  }
+
+  .season-buttons {
+    width: 368px;
+  }
+
+  .season-buttons button {
+    width: 176px;
+  }
+
+}

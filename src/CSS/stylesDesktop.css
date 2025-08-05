@@ -1,0 +1,61 @@
+/* stylesLargeTablet.css */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@media (max-width: 2156px) {
+
+  .adminGrid {
+    column-gap: 2rem;
+    row-gap: 1rem;
+  }
+
+
+  /* Movie row styles */
+  .movie-row {
+    padding: 1rem 3vw;
+    text-align: left;
+  }
+
+  .details {
+    width: 1745px;
+  }
+
+  .movie-row .cards {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    padding: 0px;
+  }
+
+  .componentDiv {
+    padding: 0px;
+  }
+
+  .homeComponent {
+    padding: 0px;
+  }
+
+  .movie-card {
+    width: 270px;
+    height: 370px;
+  }
+
+  .movie-card img {
+    width: 270px;
+    height: 370px;
+  }
+
+  .img-wrapper img {
+    width: 270px;
+    height: 370px;
+  }
+
+  .img-wrapper {
+    width: 270px;
+    height: 370px;
+  }
+
+  .episode-card {
+    width: 270px;
+    height: 370px;
+}
+
+}

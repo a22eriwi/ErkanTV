@@ -1,0 +1,84 @@
+/* stylesLargeTablet.css */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@media (max-width: 1675px) {
+  .msSearch{
+    width: 40vw;
+  }
+
+  .adminTitle {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    text-align: center;
+    margin-top: 32px;
+}
+
+.adminGrid td {
+    padding: 15px 15px;
+}
+
+.adminTableDiv th{
+  padding: 20px 15px;
+}
+
+  .adminGrid {
+    column-gap: 1.5rem;
+    font-size: 14px;
+    padding: 0rem 15vw;
+}
+
+.movieTitle{
+  font-size: 18px;
+  margin-top: 15px;
+}
+
+
+  .details {
+    width: 1300px;
+}
+
+.genre{
+    margin-left: 80px;
+}
+
+  .movie-row {
+    padding: 1rem 2rem;
+    text-align: left;
+  }
+
+  .movie-row .cards {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+  }
+
+  .genre-buttons{
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+  }
+
+  .movie-card {
+    width: 240px;
+    height: 340px;
+  }
+
+  .movie-card img {
+    width: 240px;
+    height: 340px;
+  }
+
+    .img-wrapper img {
+     width: 240px;
+    height: 340px;
+  }
+
+  .img-wrapper {
+     width: 240px;
+    height: 340px;
+  }
+
+  .episode-card {
+    width: 240px;
+    height: 340px;
+}
+  
+  }

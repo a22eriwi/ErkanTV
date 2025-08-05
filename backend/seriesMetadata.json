@@ -1,0 +1,306 @@
+{
+  "Andor": {
+    "Title": "Andor",
+    "Year": "2022–2025",
+    "Rated": "TV-14",
+    "Released": "21 Sep 2022",
+    "Runtime": "N/A",
+    "Genre": "Action, Adventure, Drama",
+    "Director": "N/A",
+    "Writer": "Tony Gilroy",
+    "Actors": "Diego Luna, Denise Gough, Stellan Skarsgård",
+    "Plot": "In an era filled with danger, deception, and intrigue, Cassian Andor embarks on a path that is destined to turn him into a Rebel hero.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Nominated for 22 Primetime Emmys. 7 wins & 100 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.6/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.6",
+    "imdbVotes": "239,755",
+    "imdbID": "tt9253284",
+    "Type": "series",
+    "totalSeasons": "2",
+    "Response": "True",
+    "folder": "Andor"
+  },
+  "Arcane": {
+    "Title": "Arcane",
+    "Year": "2021–2024",
+    "Rated": "TV-14",
+    "Released": "06 Nov 2021",
+    "Runtime": "N/A",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "N/A",
+    "Writer": "N/A",
+    "Actors": "Kevin Alejandro, Hailee Steinfeld, Ella Purnell",
+    "Plot": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+    "Language": "English, French",
+    "Country": "United States, France",
+    "Awards": "Won 4 Primetime Emmys. 31 wins & 14 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOWJhYjdjNWEtMWFmNC00ZjNkLThlZGEtN2NkM2U3NTVmMjZkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "9.0/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "9.0",
+    "imdbVotes": "404,856",
+    "imdbID": "tt11126994",
+    "Type": "series",
+    "totalSeasons": "2",
+    "Response": "True",
+    "folder": "Arcane"
+  },
+  "Blue Planet II": {
+    "Title": "Blue Planet II",
+    "Year": "2017",
+    "Rated": "TV-G",
+    "Released": "20 Jan 2018",
+    "Runtime": "364 min",
+    "Genre": "Documentary",
+    "Director": "N/A",
+    "Writer": "N/A",
+    "Actors": "David Attenborough, Peter Drost, Roger Munns",
+    "Plot": "David Attenborough returns to the world's oceans in this sequel to the acclaimed documentary filming rare and unusual creatures of the deep, as well as documenting the problems our oceans face.",
+    "Language": "English",
+    "Country": "United Kingdom, United States, China, France, Germany",
+    "Awards": "Won 1 Primetime Emmy. 11 wins & 13 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmUwYThjM2UtNTg1Yy00MzRlLThhMmYtNjlmOWU0ZmQxZDA3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "9.3/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "9.3",
+    "imdbVotes": "52,710",
+    "imdbID": "tt6769208",
+    "Type": "series",
+    "totalSeasons": "1",
+    "Response": "True",
+    "folder": "Blue Planet II"
+  },
+  "Breaking Bad": {
+    "Title": "Breaking Bad",
+    "Year": "2008–2013",
+    "Rated": "TV-MA",
+    "Released": "20 Jan 2008",
+    "Runtime": "49 min",
+    "Genre": "Crime, Drama, Thriller",
+    "Director": "N/A",
+    "Writer": "Vince Gilligan",
+    "Actors": "Bryan Cranston, Aaron Paul, Anna Gunn",
+    "Plot": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.",
+    "Language": "English, Spanish",
+    "Country": "United States",
+    "Awards": "Won 16 Primetime Emmys. 169 wins & 269 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "9.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "96%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "9.5",
+    "imdbVotes": "2,364,489",
+    "imdbID": "tt0903747",
+    "Type": "series",
+    "totalSeasons": "5",
+    "Response": "True",
+    "folder": "Breaking Bad"
+  },
+  "Chernobyl": {
+    "Title": "Chernobyl",
+    "Year": "2019",
+    "Rated": "TV-MA",
+    "Released": "06 May 2019",
+    "Runtime": "330 min",
+    "Genre": "Drama, History, Thriller",
+    "Director": "N/A",
+    "Writer": "Craig Mazin",
+    "Actors": "Jessie Buckley, Jared Harris, Stellan Skarsgård",
+    "Plot": "In April 1986, the city of Chernobyl in the Soviet Union suffers one of the worst nuclear disasters in the history of mankind. Consequently, many heroes put their lives on the line in the following days, weeks and months.",
+    "Language": "English, Russian, Ukrainian",
+    "Country": "United States, United Kingdom",
+    "Awards": "Won 10 Primetime Emmys. 87 wins & 60 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzU0OTI4YTQtNGQ1ZS00ZjA4LTg3MTMtZjkyZWNjN2RiZDJmXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "9.3/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "9.3",
+    "imdbVotes": "961,851",
+    "imdbID": "tt7366338",
+    "Type": "series",
+    "totalSeasons": "1",
+    "Response": "True",
+    "folder": "Chernobyl"
+  },
+  "Planet Earth": {
+    "Title": "Planet Earth",
+    "Year": "2006",
+    "Rated": "TV-PG",
+    "Released": "25 Mar 2007",
+    "Runtime": "538 min",
+    "Genre": "Documentary, Family",
+    "Director": "N/A",
+    "Writer": "N/A",
+    "Actors": "Sigourney Weaver, David Attenborough, Nikolay Drozdov",
+    "Plot": "A documentary series on the wildlife found on Earth. Each episode covers a different habitat: deserts, mountains, deep oceans, shallow seas, forests, caves, polar regions, fresh water, plains and jungles. Narrated by David Attenbo...",
+    "Language": "English",
+    "Country": "United Kingdom, Canada, United States, Japan",
+    "Awards": "Won 4 Primetime Emmys. 15 wins & 15 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2NjNDUzOTgtMDFmNC00ZGQ4LWE5MDctMzczNGVlOGU1N2MyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "9.4/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "9.4",
+    "imdbVotes": "227,934",
+    "imdbID": "tt0795176",
+    "Type": "series",
+    "totalSeasons": "1",
+    "Response": "True",
+    "folder": "Planet Earth"
+  },
+  "Rick and Morty": {
+    "Title": "Rick and Morty",
+    "Year": "2013–",
+    "Rated": "TV-MA",
+    "Released": "02 Dec 2013",
+    "Runtime": "23 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "N/A",
+    "Writer": "Dan Harmon, Justin Roiland",
+    "Actors": "Chris Parnell, Sarah Chalke, Spencer Grammer",
+    "Plot": "The fractured domestic lives of a nihilistic mad scientist and his anxious grandson are further complicated by their inter-dimensional misadventures.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Won 2 Primetime Emmys. 18 wins & 41 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGQyZjk2MzMtMTcyNC00NGU3LTlmNjItNDExMWM4ZDFhYmQ2XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "9.0/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "9.0",
+    "imdbVotes": "661,128",
+    "imdbID": "tt2861424",
+    "Type": "series",
+    "totalSeasons": "8",
+    "Response": "True",
+    "folder": "Rick and Morty"
+  },
+  "Sherlock": {
+    "Title": "Sherlock",
+    "Year": "2010–2017",
+    "Rated": "TV-14",
+    "Released": "24 Oct 2010",
+    "Runtime": "88 min",
+    "Genre": "Crime, Drama, Mystery",
+    "Director": "N/A",
+    "Writer": "Mark Gatiss, Steven Moffat",
+    "Actors": "Benedict Cumberbatch, Martin Freeman, Una Stubbs",
+    "Plot": "The quirky spin on Conan Doyle's iconic sleuth pitches him as a \"high-functioning sociopath\" in modern-day London. Assisting him in his investigations: Afghanistan War vet John Watson, who's introduced to Holmes by a mutual acquai...",
+    "Language": "English",
+    "Country": "United Kingdom, United States",
+    "Awards": "Won 9 Primetime Emmys. 95 wins & 185 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTQzNGZjNDEtOTMwYi00MzFjLWE2ZTYtYzYxYzMwMjZkZDc5XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "9.0/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "9.0",
+    "imdbVotes": "1,054,730",
+    "imdbID": "tt1475582",
+    "Type": "series",
+    "totalSeasons": "4",
+    "Response": "True",
+    "folder": "Sherlock"
+  },
+  "The Sopranos": {
+    "Title": "The Sopranos",
+    "Year": "1999–2007",
+    "Rated": "TV-MA",
+    "Released": "10 Jan 1999",
+    "Runtime": "55 min",
+    "Genre": "Crime, Drama",
+    "Director": "N/A",
+    "Writer": "David Chase",
+    "Actors": "James Gandolfini, Lorraine Bracco, Edie Falco",
+    "Plot": "New Jersey mob boss Tony Soprano deals with personal and professional issues in his home and business life that affect his mental state, leading him to seek professional psychiatric counseling.",
+    "Language": "English, Italian, Russian",
+    "Country": "United States",
+    "Awards": "Won 21 Primetime Emmys. 126 wins & 312 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjRmMTNiMTQtMDg1ZS00MGM1LWE1MGUtYjEzMGFjNWUzOWRkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "9.2/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "9.2",
+    "imdbVotes": "534,565",
+    "imdbID": "tt0141842",
+    "Type": "series",
+    "totalSeasons": "6",
+    "Response": "True",
+    "folder": "The Sopranos"
+  },
+  "The Wire": {
+    "Title": "The Wire",
+    "Year": "2002–2008",
+    "Rated": "TV-MA",
+    "Released": "02 Jun 2002",
+    "Runtime": "59 min",
+    "Genre": "Crime, Drama, Thriller",
+    "Director": "N/A",
+    "Writer": "David Simon",
+    "Actors": "Dominic West, Lance Reddick, Sonja Sohn",
+    "Plot": "The Baltimore drug scene, as seen through the eyes of drug dealers and law enforcement.",
+    "Language": "English, Greek, Mandarin, Spanish",
+    "Country": "United States",
+    "Awards": "Nominated for 2 Primetime Emmys. 16 wins & 59 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWYyNmRhYjktNjBhNC00M2NhLWEzYmMtZDYwNmIyZTRiZWMzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "9.3/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "9.3",
+    "imdbVotes": "405,267",
+    "imdbID": "tt0306414",
+    "Type": "series",
+    "totalSeasons": "5",
+    "Response": "True",
+    "folder": "The Wire"
+  }
+}

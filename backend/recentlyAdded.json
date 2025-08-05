@@ -1,0 +1,16 @@
+{
+  "movies": [
+    "Avatar The Way of Water",
+    "Avengers Infinity War",
+    "Bullet Train",
+    "Deadpool & Wolverine"
+  ],
+  "series": [
+    {
+      "seriesName": "Andor"
+    },
+    {
+      "seriesName": "Arcane"
+    }
+  ]
+}

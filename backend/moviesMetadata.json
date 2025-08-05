@@ -1,0 +1,422 @@
+{
+  "Avatar The Way Of Water": {
+    "Title": "Avatar: The Way of Water",
+    "Year": "2022",
+    "Rated": "PG-13",
+    "Released": "16 Dec 2022",
+    "Runtime": "192 min",
+    "Genre": "Action, Adventure, Fantasy",
+    "Director": "James Cameron",
+    "Writer": "James Cameron, Rick Jaffa, Amanda Silver",
+    "Actors": "Sam Worthington, Zoe Saldaña, Sigourney Weaver",
+    "Plot": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Won 1 Oscar. 73 wins & 152 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmQxNjZlZTctMWJiMC00NGMxLWJjNTctNTFiNjA1Njk3ZDQ5XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "76%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "67/100"
+      }
+    ],
+    "Metascore": "67",
+    "imdbRating": "7.5",
+    "imdbVotes": "539,759",
+    "imdbID": "tt1630029",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$684,075,767",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True",
+    "folder": "Avatar The Way Of Water",
+    "filename": "Avatar The Way Of Water.mp4"
+  },
+  "Avengers Infinity War": {
+    "Title": "Avengers: Infinity War",
+    "Year": "2018",
+    "Rated": "PG-13",
+    "Released": "27 Apr 2018",
+    "Runtime": "149 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Anthony Russo, Joe Russo",
+    "Writer": "Christopher Markus, Stephen McFeely, Stan Lee",
+    "Actors": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo",
+    "Plot": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+    "Language": "English",
+    "Country": "United States, Norway",
+    "Awards": "Nominated for 1 Oscar. 48 wins & 80 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "85%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "68/100"
+      }
+    ],
+    "Metascore": "68",
+    "imdbRating": "8.4",
+    "imdbVotes": "1,301,790",
+    "imdbID": "tt4154756",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$678,815,482",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True",
+    "folder": "Avengers Infinity War",
+    "filename": "Avengers Infinity War.mp4"
+  },
+  "Bullet Train": {
+    "Title": "Bullet Train",
+    "Year": "2022",
+    "Rated": "R",
+    "Released": "05 Aug 2022",
+    "Runtime": "127 min",
+    "Genre": "Action, Comedy, Thriller",
+    "Director": "David Leitch",
+    "Writer": "Zak Olkewicz, Kôtarô Isaka",
+    "Actors": "Brad Pitt, Joey King, Aaron Taylor-Johnson",
+    "Plot": "Five assassins aboard a swiftly-moving bullet train find out that their missions have something in common.",
+    "Language": "English, Japanese, Spanish, Russian",
+    "Country": "United States, Japan",
+    "Awards": "2 wins & 19 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODUyZjkxZDMtZGI3ZC00ZmEwLTgwMTUtYTU4OTQ5YjU4ZjRlXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "53%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "49/100"
+      }
+    ],
+    "Metascore": "49",
+    "imdbRating": "7.3",
+    "imdbVotes": "500,060",
+    "imdbID": "tt12593682",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$103,368,602",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True",
+    "folder": "Bullet Train",
+    "filename": "Bullet Train.mp4"
+  },
+  "Deadpool & Wolverine": {
+    "Title": "Deadpool & Wolverine",
+    "Year": "2024",
+    "Rated": "R",
+    "Released": "26 Jul 2024",
+    "Runtime": "128 min",
+    "Genre": "Action, Adventure, Comedy",
+    "Director": "Shawn Levy",
+    "Writer": "Ryan Reynolds, Rhett Reese, Paul Wernick",
+    "Actors": "Ryan Reynolds, Hugh Jackman, Emma Corrin",
+    "Plot": "Deadpool is offered a place in the Marvel Cinematic Universe by the Time Variance Authority, but instead recruits a variant of Wolverine to save his universe from extinction.",
+    "Language": "English, French, Spanish",
+    "Country": "United States, United Kingdom, New Zealand, Canada",
+    "Awards": "27 wins & 71 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTk5ODY0MmQtMzA3Ni00NGY1LThiYzItZThiNjFiNDM4MTM3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "78%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "56/100"
+      }
+    ],
+    "Metascore": "56",
+    "imdbRating": "7.5",
+    "imdbVotes": "515,160",
+    "imdbID": "tt6263850",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$636,745,858",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True",
+    "folder": "Deadpool & Wolverine",
+    "filename": "Deadpool & Wolverine.mp4"
+  },
+  "Dune Part Two": {
+    "Title": "Dune: Part Two",
+    "Year": "2024",
+    "Rated": "PG-13",
+    "Released": "01 Mar 2024",
+    "Runtime": "166 min",
+    "Genre": "Action, Adventure, Drama",
+    "Director": "Denis Villeneuve",
+    "Writer": "Denis Villeneuve, Jon Spaihts, Frank Herbert",
+    "Actors": "Timothée Chalamet, Zendaya, Rebecca Ferguson",
+    "Plot": "Paul Atreides unites with the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he endeavors to prevent a terrible fu...",
+    "Language": "English",
+    "Country": "United States, Canada, United Arab Emirates, Hungary, Italy, New Zealand, Jordan, Gambia",
+    "Awards": "Won 2 Oscars. 110 wins & 374 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "79/100"
+      }
+    ],
+    "Metascore": "79",
+    "imdbRating": "8.5",
+    "imdbVotes": "648,717",
+    "imdbID": "tt15239678",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$282,144,358",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True",
+    "folder": "Dune Part Two",
+    "filename": "Dune Part Two.mp4"
+  },
+  "Iron Man": {
+    "Title": "Iron Man",
+    "Year": "2008",
+    "Rated": "PG-13",
+    "Released": "02 May 2008",
+    "Runtime": "126 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Jon Favreau",
+    "Writer": "Mark Fergus, Hawk Ostby, Art Marcum",
+    "Actors": "Robert Downey Jr., Gwyneth Paltrow, Terrence Howard",
+    "Plot": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+    "Language": "English, Persian, Urdu, Arabic, Kurdish, Hindi, Hungarian",
+    "Country": "United States, Canada",
+    "Awards": "Nominated for 2 Oscars. 24 wins & 73 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "94%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "79/100"
+      }
+    ],
+    "Metascore": "79",
+    "imdbRating": "7.9",
+    "imdbVotes": "1,183,300",
+    "imdbID": "tt0371746",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$319,034,126",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True",
+    "folder": "Iron Man",
+    "filename": "Iron Man.mp4"
+  },
+  "Spider Man No Way Home": {
+    "Title": "Spider-Man: No Way Home",
+    "Year": "2021",
+    "Rated": "PG-13",
+    "Released": "17 Dec 2021",
+    "Runtime": "148 min",
+    "Genre": "Action, Adventure, Fantasy",
+    "Director": "Jon Watts",
+    "Writer": "Chris McKenna, Erik Sommers, Stan Lee",
+    "Actors": "Tom Holland, Zendaya, Benedict Cumberbatch",
+    "Plot": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear.",
+    "Language": "English, Tagalog",
+    "Country": "United States",
+    "Awards": "Nominated for 1 Oscar. 35 wins & 71 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "93%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "71/100"
+      }
+    ],
+    "Metascore": "71",
+    "imdbRating": "8.2",
+    "imdbVotes": "967,684",
+    "imdbID": "tt10872600",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$814,866,759",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True",
+    "folder": "Spider Man No Way Home",
+    "filename": "Spider Man No Way Home.mp4"
+  },
+  "Star Wars Episode VIII": {
+    "Title": "Star Wars: Episode VIII - The Last Jedi",
+    "Year": "2017",
+    "Rated": "PG-13",
+    "Released": "15 Dec 2017",
+    "Runtime": "152 min",
+    "Genre": "Action, Adventure, Fantasy",
+    "Director": "Rian Johnson",
+    "Writer": "Rian Johnson, George Lucas",
+    "Actors": "Daisy Ridley, John Boyega, Mark Hamill",
+    "Plot": "Rey develops her abilities with the help of Luke Skywalker as the Resistance prepares for battle against the First Order.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Nominated for 4 Oscars. 26 wins & 99 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "91%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "84/100"
+      }
+    ],
+    "Metascore": "84",
+    "imdbRating": "6.9",
+    "imdbVotes": "700,592",
+    "imdbID": "tt2527336",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$620,181,382",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True",
+    "folder": "Star Wars Episode VIII",
+    "filename": "Star Wars Episode VIII.mp4"
+  },
+  "The Avengers": {
+    "Title": "The Avengers",
+    "Year": "2012",
+    "Rated": "PG-13",
+    "Released": "04 May 2012",
+    "Runtime": "143 min",
+    "Genre": "Action, Sci-Fi",
+    "Director": "Joss Whedon",
+    "Writer": "Joss Whedon, Zak Penn",
+    "Actors": "Robert Downey Jr., Chris Evans, Scarlett Johansson",
+    "Plot": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+    "Language": "English, Russian",
+    "Country": "United States",
+    "Awards": "Nominated for 1 Oscar. 39 wins & 81 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGE0YTVjNzUtNzJjOS00NGNlLTgxMzctZTY4YTE1Y2Y1ZTU4XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "91%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "69/100"
+      }
+    ],
+    "Metascore": "69",
+    "imdbRating": "8.0",
+    "imdbVotes": "1,516,933",
+    "imdbID": "tt0848228",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$623,357,910",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True",
+    "folder": "The Avengers",
+    "filename": "The Avengers.mp4"
+  },
+  "The Dark Knight": {
+    "Title": "The Dark Knight",
+    "Year": "2008",
+    "Rated": "PG-13",
+    "Released": "18 Jul 2008",
+    "Runtime": "152 min",
+    "Genre": "Action, Crime, Drama",
+    "Director": "Christopher Nolan",
+    "Writer": "Jonathan Nolan, Christopher Nolan, David S. Goyer",
+    "Actors": "Christian Bale, Heath Ledger, Aaron Eckhart",
+    "Plot": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",
+    "Language": "English, Mandarin",
+    "Country": "United States, United Kingdom",
+    "Awards": "Won 2 Oscars. 163 wins & 165 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "9.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "94%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "85/100"
+      }
+    ],
+    "Metascore": "85",
+    "imdbRating": "9.0",
+    "imdbVotes": "3,044,547",
+    "imdbID": "tt0468569",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$534,987,076",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True",
+    "folder": "The Dark Knight",
+    "filename": "The Dark Knight.mp4"
+  }
+}

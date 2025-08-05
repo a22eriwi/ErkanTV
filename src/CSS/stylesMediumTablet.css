@@ -1,0 +1,131 @@
+/* stylesTablet.css */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@media (max-width: 1400px) {
+  .msSearch {
+    width: 876px;
+  }
+
+  .adminGrid {
+    display: grid;
+    grid-template-areas:
+      "pending "
+      "approved"
+      "streamingLogs";
+    grid-template-columns: repeat(1, 1fr);
+    column-gap: 0rem;
+    row-gap: 1rem;
+    padding: 0rem 5vw;
+    justify-content: center;
+  }
+
+  .adminTableDiv td {
+    padding: 10px;
+  }
+
+  .adminTableDiv th {
+    padding: 15px 10px;
+  }
+
+  .pending .adminTableDiv {
+    width: 700px;
+  }
+
+  .approved .adminTableDiv {
+    width: 700px;
+  }
+
+  .approved .centreraCards {
+    display: flex;
+  }
+
+  .pending .centreraCards {
+    display: flex;
+  }
+
+  .backButton {
+    width: 282px;
+  }
+
+  .adminTitle {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    text-align: center;
+    margin-top: 32px;
+  }
+
+  .movieTitle{
+    font-size: 13px;
+  }
+
+.next-episode-button {
+    bottom: 75px;
+    right: 20px;
+    padding: 10px 20px;
+    font-size: 13px;
+}
+
+  /* Movie row styles */
+  .movie-row {
+    padding: 1rem 1rem;
+  }
+
+  .genre-buttons {
+    width: 876px;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+  }
+
+  .genre-buttons button {
+    padding: 15px 15px;
+    white-space: nowrap;
+  }
+
+  .details {
+    width: 875px;
+  }
+
+  .genre {
+    margin-left: 35px;
+  }
+
+
+  .movie-row .cards {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .movie-card {
+    width: 200px;
+    height: 300px;
+  }
+
+  .movie-card img {
+    width: 200px;
+    height: 300px;
+  }
+
+  .img-wrapper img {
+    width: 200px;
+    height: 300px;
+  }
+
+  .img-wrapper {
+    width: 200px;
+    height: 300px;
+  }
+
+  .episode-card {
+    width: 200px;
+    height: 300px;
+  }
+
+  .season-buttons {
+    width: 876px;
+  }
+
+  .season-buttons button {
+    width: 133.5px;
+  }
+
+}

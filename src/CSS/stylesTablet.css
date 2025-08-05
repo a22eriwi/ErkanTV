@@ -1,0 +1,284 @@
+/* stylesTablet.css */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@media (max-width: 970px) {
+
+  .msSearch {
+    width: 532px;
+  }
+
+  .wishList {
+    margin: auto;
+    max-width: 600px;
+    margin-top: 20px;
+    padding: 0rem 2rem;
+  }
+
+  .wishTableDiv {
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+  }
+
+  .wishPost {
+    font-size: 12px;
+  }
+
+  .wishPost td {
+    padding: 15px;
+    word-break: break-word;
+    width: 50px;
+  }
+
+  .backButton {
+    padding: 15px;
+    width: 532px;
+  }
+
+  .wishTable th {
+    padding: 20px 15px;
+  }
+
+  .genre-buttons {
+    width: 532px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .genre-buttons button {
+    padding: 15px 15px;
+  }
+
+  .header .menuButton {
+    padding: 17px 15px;
+  }
+
+  .header.open .menuButton {
+    display: block;
+    margin-right: 0px;
+    background-color: transparent;
+    border: 0px;
+  }
+
+  .header.header.closed .logga {
+    display: block;
+  }
+
+  .header .logga {
+    margin-right: 0px;
+    text-align: left;
+  }
+
+  .header.closed .signDiv a {
+    display: block;
+  }
+
+  .header.closed .menuButton {
+    display: block;
+  }
+
+  .header.closed a {
+    display: none;
+  }
+
+  .header.open .logga {
+    border-bottom: 2px solid transparent;
+    border-top: 2px solid transparent;
+  }
+
+  .header.open .nav {
+    opacity: 85%;
+  }
+
+  .header a {
+    border: none;
+  }
+
+  .header.open a {
+    background-color: #0c0c0c;
+    float: none;
+    display: block;
+    text-align: left;
+    border: 0px;
+    margin: 0px;
+    padding-left: 30px;
+    border-bottom: 1px solid rgb(36, 36, 36);
+  }
+
+  .header.open .nav.active {
+    opacity: 100%;
+  }
+
+  .header.open .nav:hover {
+    opacity: 100%;
+  }
+
+  .header.open a:hover::after {
+    width: 0%;
+  }
+
+  .header.open a.active::after {
+    width: 0%;
+  }
+
+  .header .menuButton {
+    font-size: 18px;
+  }
+
+  .approveKnapp {
+    font-size: 12px;
+  }
+
+  .deleteKnapp {
+    font-size: 12px;
+  }
+
+  .adminGrid {
+    row-gap: 1rem;
+    padding: 0rem 0.5rem;
+    justify-content: center;
+    font-size: 12px;
+  }
+
+  .adminGrid td {
+    padding: 5px 10px;
+  }
+
+  .adminGrid th {
+    padding: 10px;
+  }
+
+  .adminTableDiv td {
+    padding: 10px;
+  }
+
+  .adminTableDiv th {
+    padding: 15px 10px;
+  }
+
+  .pending .adminTableDiv {
+    width: 516px;
+  }
+
+  .approved .adminTableDiv {
+    width: 516px;
+  }
+
+  .header.open .adminKnapp {
+    padding: 7px 16px;
+    margin-top: 18px;
+    margin-bottom: 18px;
+    border: 0px;
+  }
+
+  .header.open .signinKnapp {
+    padding: 7px 16px;
+    margin-top: 18px;
+    margin-bottom: 18px;
+    margin-left: 8px;
+    border: 0px;
+  }
+
+  .valkommen {
+    font-size: 2.2rem;
+  }
+
+  .valkommen2 {
+    font-size: 1.2rem;
+  }
+
+  .seriesTitle {
+    color: white;
+    text-align: center;
+    font-size: 13px;
+    word-break: break-word;
+    white-space: normal;
+    overflow: visible;
+    cursor: pointer;
+    display: block;
+  }
+
+  .next-episode-button {
+    bottom: 55px;
+    font-size: 12px;
+}
+
+  
+  .movieTitle{
+    font-size: 12px;
+    padding: 10px 10px;
+    max-width: 50vw;
+  }
+
+
+  .details-wrapper {
+    grid-template-columns: 100% 50% 50%;
+    grid-template-areas:
+      'plot'
+      'genre'
+      'starring';
+  }
+
+  .genre,
+  .starring {
+    margin-left: 0px;
+  }
+
+  .details {
+    width: 530px;
+  }
+
+  /* Movie row styles */
+  .movie-row {
+    padding: 1rem 1rem;
+  }
+
+  .movie-row .cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+  }
+
+  .movie-card {
+    width: 160px;
+    height: 260px;
+  }
+
+  .movie-card img {
+    width: 160px;
+    height: 260px;
+  }
+
+  .img-wrapper img {
+    width: 160px;
+    height: 260px;
+  }
+
+  .img-wrapper {
+    width: 160px;
+    height: 260px;
+  }
+
+  .episode-card {
+    width: 160px;
+    height: 260px;
+  }
+
+  .season-buttons {
+    width: 532px;
+  }
+
+  .season-buttons button {
+    width: 121.75px;
+  }
+
+  .video-wrapper {
+    min-width: 85vw;
+  }
+
+  .video-player {
+    border-radius: 0px;
+  }
+
+}
