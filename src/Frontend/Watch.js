@@ -15,7 +15,6 @@ export default function Watch() {
     const [videoFileName, setVideoFileName] = useState('');
     const [contentType, setContentType] = useState('movie');
     const { user } = useAuth();
-    const [hasSubtitle, setHasSubtitle] = useState(false);
     const [showNextButton, setShowNextButton] = useState(false);
     const [metadata, setMetadata] = useState(null);
     const [nextEpisodePath, setNextEpisodePath] = useState(null);

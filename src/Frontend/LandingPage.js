@@ -36,7 +36,7 @@ function Banner() {
 }
 
 function Header() {
-    const { isLoggedIn, user, logout } = useAuth();
+    const { isLoggedIn, logout } = useAuth();
     return (
         <>
             <header className="header">
